@@ -1,4 +1,3 @@
-layout_spectrum: 0.32115175388753414
 typography_spectrum: 0.6220049031544477
 color:
   brandStrength: 0.6405061832629144
@@ -11,7 +10,9 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-name: Stitch the net
+layout_spectrum: 0.32115175388753414
 author:
   name: Bjørn Otto Vasbotten
   url: stitch.no
+name: Stitch the net
+title: Stich the net
