@@ -15,4 +15,8 @@ author:
   name: Bjørn Otto Vasbotten
   url: stitch.no
 name: Stitch the net
+navigation:
+  - name: OneCook Personal Robotic Chef
+    id: 3c0c5bcf-f792-48cd-a09d-790ae43ccc94
+    type: content
 title: Stich the net
