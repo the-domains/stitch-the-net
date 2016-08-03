@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-03T05:31:31.384Z'
+datePublished: '2016-08-03T05:44:31.847Z'
 sourcePath: _posts/2016-04-15-onecook-personal-robotic-chef.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/food-drink/one-cook-personal-robotic-chef'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - onecook
   - tnl
@@ -20,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-03T05:31:30.593Z'
+dateModified: '2016-08-03T05:44:31.299Z'
 title: OneCook Personal Robotic Chef
 app_links: []
 publisher:
@@ -37,6 +36,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: onecook-personal-robotic-chef/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
